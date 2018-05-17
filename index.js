@@ -1,5 +1,5 @@
-function BoardMember(name,city,study){
+function BoardMember(name,home_state,training){
   this.name = name
-  this.city = city
-  this.study = study
+  this.home_state = home_state
+  this.training = training
 }
